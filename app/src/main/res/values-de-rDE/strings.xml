@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hello Word</string>
+    <string name="deitel_logo">Deitels Käfer hat zwei Daumen nach oben.</string>
+</resources>
